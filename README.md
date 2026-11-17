@@ -3,7 +3,13 @@
 **Voice-led checkout for a market stall, designed to work offline.**
 Prototype de caisse pour un vendeur en Afrique francophone : la vente se confirme à la voix, le stock reste sur l’appareil.
 
-![Cash Loud](docs/portfolio/cover.png)
+<p>
+  <img src="docs/portfolio/home.png" alt="Accueil" width="220">
+  <img src="docs/portfolio/ventes.png" alt="Ventes" width="220">
+  <img src="docs/portfolio/stock.png" alt="Stock" width="220">
+</p>
+
+Captures de l'application sur un Pixel 9.
 
 ## What it does
 
